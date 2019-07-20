@@ -1,0 +1,4 @@
+I got the keywords, I now only have to match them to the 
+respective songs.
+
+It seems like I'll have to fetch the songs lyrics from the training set. 
